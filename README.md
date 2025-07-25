@@ -30,7 +30,7 @@ Durante o desenvolvimento, enfrentei os seguintes desafios:
 ├── reset.css
 └── styles.css
 
-yaml
+
 Copiar
 Editar
 
